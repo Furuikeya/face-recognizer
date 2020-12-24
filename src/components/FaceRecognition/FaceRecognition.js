@@ -11,7 +11,7 @@ const FaceRecognition = ({ imageUrl, box }) => {
           alt=""
           width="690px"
           height="auto"
-          // className="bw2 b--solid b--white-20"
+          className="bw2 b--solid b--white-10 mb4"
         />
         <div
           className="bounding-box"
